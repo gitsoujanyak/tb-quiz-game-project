@@ -1,0 +1,24 @@
+
+.welcome,.question-container {
+  border:1px solid black;
+  font-family: verdana, geneva, tahoma, sans-serif;
+  flex-direction: column;
+  padding: 50px;
+  height: 200px;
+  width:200px;
+  margin:auto;
+  margin-top: 50px;
+  margin-bottom: 50%;
+  text-align: center;
+  position:relative;
+  box-sizing: inherit;
+
+}
+.center {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+p {
+    padding: 20px;
+}
